@@ -1,0 +1,6 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+1.70138877801165;--;--;--;--;The number of active entities in the simulation has exceeded 20,000 objects
+1.70138877801165;--;--;--;--;This may indicate that there is a logic problem in the model which is creating too many entities or is not destroying them. 
+3.27756117621534;--;--;--;--;The number of active tokens in the simulation has exceeded 100,000 tokens
+3.27756117621534;--;--;--;--;This may indicate that there is a logic problem in the model. See the Details section for specific information about which processes currently have the largest number of active tokens.
+
